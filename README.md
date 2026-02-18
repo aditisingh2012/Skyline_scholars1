@@ -88,9 +88,3 @@ Generated files:
 - all_metrics_curves.png  
 - evaluation_metrics.txt  
 
-Add images in GitHub like this:
-
-```markdown
-![Training Curve](outputs/training_curves.png)
-![IoU Curve](outputs/iou_curves.png)
-![Dice Curve](outputs/dice_curves.png)
