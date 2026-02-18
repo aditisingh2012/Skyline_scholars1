@@ -49,8 +49,8 @@ Data split:
 - Validation set
 
 For faster experimentation:
-- 300 training samples
-- 100 validation samples
+- 900 training samples
+- 500 validation samples
 
 ---
 
@@ -58,8 +58,8 @@ For faster experimentation:
 
 | Parameter | Value |
 |------------|--------|
-| Epochs | 3 |
-| Batch Size | 2 |
+| Epochs | 10 |
+| Batch Size | 10 |
 | Optimizer | Adam |
 | Learning Rate | 1e-4 |
 | Loss Function | CrossEntropyLoss |
@@ -71,10 +71,10 @@ For faster experimentation:
 
 | Metric | Value |
 |--------|--------|
-| Final Validation Loss | 0.8281 |
-| Final IoU | 0.2760 |
-| Final Dice Score | 0.4092 |
-| Final Pixel Accuracy | 0.7142 |
+| Final Validation Loss | 0.8154 |
+| Final IoU | 0.2934 |
+| Final Dice Score | 0.4382 |
+| Final Pixel Accuracy | 0.7026 |
 
 ---
 
