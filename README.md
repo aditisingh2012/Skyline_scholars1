@@ -67,7 +67,7 @@ For faster experimentation:
 
 ---
 
-## 📊 Final Results (After 3 Epochs)
+## 📊 Final Results (After 10Epochs)
 
 | Metric | Value |
 |--------|--------|
